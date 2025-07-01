@@ -6,4 +6,3 @@ The workflow begins with robust data loading and preprocessing, including image 
 
 Training is conducted using K-fold cross-validation to reliably assess model performance, with early stopping and learning rate reduction callbacks to prevent overfitting and improve convergence. The system achieves strong validation accuracy, demonstrating its potential for assisting in early and accurate lung cancer diagnosis from imaging data.
 
-This description highlights the technical approach, data handling strategies, model architecture, and validation methods used in your project.
