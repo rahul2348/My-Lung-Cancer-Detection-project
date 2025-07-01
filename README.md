@@ -1,4 +1,4 @@
-Certainly! Here’s a **well-structured project summary** based on your provided details, suitable for reports or presentations:
+
 
 ## **Lung Cancer Detection Using Deep Learning**
 
@@ -96,8 +96,4 @@ The model demonstrates robust performance across all metrics, with reliable diff
 - **Data Expansion:**  
   Integrate larger and more diverse datasets for improved generalization.
 
-This project showcases the potential of deep learning for medical image analysis, providing a foundation for further research and clinical applications in lung cancer detection.
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70702799/fb626940-174c-4f79-8e85-52d7ee7d54e5/Lung_cancer_detection_code.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70702799/3b8f4154-5f64-4857-89b1-eba2b8db8f06/Evaluation.ipynb
-[3] https://pplx-res.cloudinary.com/image/private/user_uploads/70702799/9f390d32-eb13-4d09-8402-e1fbdc3326dc/image.jpg
